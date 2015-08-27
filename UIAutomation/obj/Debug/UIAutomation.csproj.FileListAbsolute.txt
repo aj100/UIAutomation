@@ -1,0 +1,11 @@
+C:\Users\Anurag\Documents\Projects\CSharp\UIAutomation\UIAutomation\bin\Debug\UIAutomation.exe.config
+C:\Users\Anurag\Documents\Projects\CSharp\UIAutomation\UIAutomation\bin\Debug\UIAutomation.exe
+C:\Users\Anurag\Documents\Projects\CSharp\UIAutomation\UIAutomation\bin\Debug\UIAutomation.pdb
+C:\Users\Anurag\Documents\Projects\CSharp\UIAutomation\UIAutomation\bin\Debug\Castle.Core.dll
+C:\Users\Anurag\Documents\Projects\CSharp\UIAutomation\UIAutomation\bin\Debug\TestStack.White.dll
+C:\Users\Anurag\Documents\Projects\CSharp\UIAutomation\UIAutomation\bin\Debug\Castle.Core.xml
+C:\Users\Anurag\Documents\Projects\CSharp\UIAutomation\UIAutomation\bin\Debug\TestStack.White.pdb
+C:\Users\Anurag\Documents\Projects\CSharp\UIAutomation\UIAutomation\bin\Debug\TestStack.White.xml
+C:\Users\Anurag\Documents\Projects\CSharp\UIAutomation\UIAutomation\obj\Debug\UIAutomation.csprojResolveAssemblyReference.cache
+C:\Users\Anurag\Documents\Projects\CSharp\UIAutomation\UIAutomation\obj\Debug\UIAutomation.exe
+C:\Users\Anurag\Documents\Projects\CSharp\UIAutomation\UIAutomation\obj\Debug\UIAutomation.pdb
