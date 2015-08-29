@@ -1,4 +1,5 @@
 How to get setup:
+
 1. Install the Arc Welder Chrome extension.
 2. Use this place to get the APK: http://www.apkmirror.com/
 3. Use this advice to make it a separate Chrome app: http://liliputing.com/2015/04/how-to-run-multiple-android-apps-through-chrome-with-arc-welder.html
